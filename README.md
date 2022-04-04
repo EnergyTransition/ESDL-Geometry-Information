@@ -3,9 +3,9 @@
 A very simple example ESDL is provided, with multiple assets in different areas. The energy system
 also contains a building with an asset.
 
-![Example visualisation in the MapEditor](docs/Example visualisation in the MapEditor.png)
-![Zoomed in to building](docs/Zoomed in to building.png)
-![BuildingEditor in MapEditor](docs/BuildingEditor in MapEditor.png)
+![Example visualisation in the MapEditor](docs/Example_visualisation_in_the_MapEditor.png)
+![Zoomed in to building](docs/Zoomed_in_to_building.png)
+![BuildingEditor in MapEditor](docs/BuildingEditor_in_MapEditor.png)
 
 See `data/Nieuw-Vennep.esdl` for the contents of the ESDL file
 
