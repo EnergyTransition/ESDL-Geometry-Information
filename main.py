@@ -1,6 +1,5 @@
 import glob
 import os
-from textwrap import indent
 
 import esdl
 from esdl.esdl_handler import EnergySystemHandler
